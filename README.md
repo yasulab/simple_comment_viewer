@@ -1,8 +1,6 @@
 # Simple Comment Viewer
 
-This is a ruby script that reads comming comments from [ScreenX TV](http://screenx.tv),   
-forked from [aki-017/screenx-commentviewer](http://github.com/aki-017/screenx-commentviewer),  
-which can not only read but also write a comment from your terminal.
+This is a ruby script that reads comming comments from [ScreenX TV](http://screenx.tv)
 
 ## How to run
 
@@ -26,7 +24,7 @@ which can not only read but also write a comment from your terminal.
 
 ## For further information.
 
-See the [originl repo](http://github.com/aki-017/screenx-commentviewer).
+See the [originl repo](http://github.com/aki-017/screenx-commentviewer), whicn enables you to not only read but also write comments from your terminal.
 
 ## License
 
