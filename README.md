@@ -8,15 +8,21 @@ which can not only read but also write a comment from your terminal.
 
 1. Install required gems.
 
+``` bash
     $ bundle install
- 
+```
+
 2. Open `config.yml` and tune to your channel.
 
+``` bash
     $ vi config.yml
+```
 
 3. Run the script via `bundle exec`.
 
+``` bash
     $ bundle exec ruby simple_comment_viewer.rb
+```
 
 ## For more infor
 
