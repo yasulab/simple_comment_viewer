@@ -1,0 +1,25 @@
+GIT
+  remote: git://github.com/yasulab/socket.io-ruby-client.git
+  revision: 14d1b78ac9ec0bde45891ae51196bea6fd42a2c2
+  specs:
+    socketio-client (0.0.2)
+      rest-client
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    active_support (3.0.0)
+      activesupport (= 3.0.0)
+    activesupport (3.0.0)
+    i18n (0.6.4)
+    mime-types (1.23)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  active_support
+  i18n
+  socketio-client!

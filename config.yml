@@ -1,0 +1,7 @@
+# Tune to your channel.
+#   http://screenx.tv/#{channel}
+channel: demo
+
+# If you'd like to hear Japanese comments by voice,
+# and already install `saykana`, make it true.
+saykana: false
