@@ -1,6 +1,6 @@
 # Simple Comment Viewer
 
-This is a ruby script that reads comming comments from [ScreenX TV](http://screenx.tv)
+This is a ruby script that simply reads comming comments from [ScreenX TV](http://screenx.tv).
 
 ## How to run
 
@@ -24,7 +24,8 @@ This is a ruby script that reads comming comments from [ScreenX TV](http://scree
 
 ## For further information.
 
-See the [originl repo](http://github.com/aki-017/screenx-commentviewer), which enables you to not only read but also write comments from your terminal.
+Check out the original repository, [aki-017/screenx-commentviewer](http://github.com/aki-017/screenx-commentviewer), 
+which enables you to not only read but also write comments from your terminal.
 
 ## License
 
