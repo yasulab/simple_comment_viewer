@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/yasulab/socket.io-ruby-client.git
-  revision: 14d1b78ac9ec0bde45891ae51196bea6fd42a2c2
+  revision: 936c410b97ea0b3035ccd0c45d2dd8b2690f91a7
   specs:
     socketio-client (0.0.2)
       rest-client
@@ -22,4 +22,5 @@ PLATFORMS
 DEPENDENCIES
   active_support
   i18n
+  rest-client
   socketio-client!
